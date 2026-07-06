@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 520" role="img" aria-label="Burgundy rose bouquet">
+  <defs>
+    <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#F7F0D8"/>
+      <stop offset="1" stop-color="#C7C9AA"/>
+    </linearGradient>
+    <linearGradient id="rose" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#8E3A43"/>
+      <stop offset="1" stop-color="#45171B"/>
+    </linearGradient>
+  </defs>
+  <path d="M96 188 C112 324 136 438 210 498 C286 438 312 320 326 188 C258 222 164 222 96 188Z" fill="url(#paper)" stroke="#45171B" stroke-width="4"/>
+  <path d="M124 226 C166 258 251 257 296 226" fill="none" stroke="#73775C" stroke-width="3" opacity=".65"/>
+  <g stroke="#73775C" stroke-width="5" stroke-linecap="round">
+    <path d="M208 438 C194 338 178 236 132 120"/>
+    <path d="M210 438 C215 320 230 222 278 102"/>
+    <path d="M210 438 C212 314 206 214 208 76"/>
+    <path d="M210 438 C184 334 152 260 94 164"/>
+    <path d="M210 438 C234 328 266 250 326 158"/>
+  </g>
+  <g fill="#7E8664">
+    <path d="M137 238 C78 220 66 176 84 142 C132 150 162 184 137 238Z"/>
+    <path d="M261 246 C318 224 334 178 313 146 C270 154 238 194 261 246Z"/>
+    <path d="M196 216 C152 178 153 132 178 106 C215 128 227 172 196 216Z"/>
+  </g>
+  <g fill="url(#rose)" stroke="#2E1013" stroke-width="3">
+    <path d="M78 139 C54 108 74 62 114 61 C142 31 190 53 187 94 C217 124 194 171 149 167 C127 195 82 177 78 139Z"/>
+    <path d="M239 124 C219 94 237 52 274 51 C301 24 345 43 345 82 C375 108 358 154 316 154 C293 181 249 164 239 124Z"/>
+    <path d="M151 82 C129 48 155 8 197 17 C225 -7 266 20 256 58 C282 91 253 133 213 123 C185 148 144 121 151 82Z"/>
+    <path d="M256 204 C232 171 255 128 296 132 C324 105 370 130 360 170 C386 203 356 246 316 233 C288 260 246 235 256 204Z"/>
+  </g>
+  <g fill="none" stroke="#F7F0D8" stroke-width="4" opacity=".7">
+    <path d="M94 124 C116 100 145 103 166 126"/>
+    <path d="M255 113 C278 91 309 92 330 115"/>
+    <path d="M170 74 C194 54 222 57 242 80"/>
+    <path d="M273 193 C298 171 330 175 347 202"/>
+  </g>
+  <path d="M152 410 C178 430 239 431 268 410" fill="none" stroke="#45171B" stroke-width="10" stroke-linecap="round"/>
+</svg>

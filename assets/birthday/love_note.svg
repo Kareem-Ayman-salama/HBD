@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-label="Love note with hearts">
+  <rect x="88" y="112" width="244" height="178" rx="20" fill="#F7F0D8" stroke="#45171B" stroke-width="5"/>
+  <path d="M92 135 L210 222 L328 135" fill="none" stroke="#AAAE8D" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M128 292 C154 326 268 328 296 292" fill="none" stroke="#45171B" stroke-width="5" opacity=".55"/>
+  <path d="M141 92 C120 65 137 32 168 34 C188 17 221 30 222 62 C244 86 226 122 190 121 C173 142 139 126 141 92Z" fill="#6D252C" stroke="#45171B" stroke-width="5"/>
+  <path d="M258 88 C240 66 254 38 282 40 C300 25 328 37 329 64 C349 84 333 115 302 114 C287 132 257 119 258 88Z" fill="#8E3A43" stroke="#45171B" stroke-width="5"/>
+</svg>
